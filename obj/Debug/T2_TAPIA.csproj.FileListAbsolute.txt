@@ -1,0 +1,16 @@
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\bin\Debug\T2_TAPIA.exe.config
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\bin\Debug\T2_TAPIA.exe
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\bin\Debug\T2_TAPIA.pdb
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.csproj.AssemblyReference.cache
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.csproj.CoreCompileInputs.cache
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.exe
+C:\Users\omar_\source\repos\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.pdb
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\bin\Debug\T2_TAPIA.exe.config
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\bin\Debug\T2_TAPIA.exe
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\bin\Debug\T2_TAPIA.pdb
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.csproj.AssemblyReference.cache
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.csproj.SuggestedBindingRedirects.cache
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.csproj.CoreCompileInputs.cache
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.exe
+C:\Users\omar_\OneDrive\Escritorio\T2_TAPIA\T2_TAPIA\obj\Debug\T2_TAPIA.pdb
